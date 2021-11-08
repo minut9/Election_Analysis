@@ -1,7 +1,7 @@
 # Election_Analysis
 
 # Purpose
-This code is an election audit to help Seth and Tom with a submission to the election commission. This code dissects the election results of the 3 counties election results and uses python to analyze the data. The script used depicts a clear winner of the election with also tallying the votes per county and candidate, as well as percentages for comparison. 
+This project is an election audit to help Seth and Tom with a submission to the election commission. The code dissects the election results of Jefferson, Denver, and Arapahoe Counties and uses python to analyze the data. The code used depicts a clear winner of the election while also tallying the votes per county and candidate, as well as percentages for comparison. 
 
 # Election Results
 
@@ -15,5 +15,5 @@ This code is an election audit to help Seth and Tom with a submission to the ele
 * And 3rd largest county turnout was Arapahoe with 24,801 votes, which was 6.7% of the total votes. 
 
 # Summary
-This script found the winner of the election who was Diana DeGette with 73.8% of all votes cast, which was 272,892 out of the total 369,711 total votes. This script can be used to find future election results with edits/additions to names and adjusting the ranges of what results are being sought after. 
+According to the election results, the winner of the election is Diana DeGette with 73.8% of all votes cast, which was 272,892 out of the total 369,711 total votes. This code can be used to find future election results with edits and additions to names and adjusting the ranges of what results are being sought after. 
 
