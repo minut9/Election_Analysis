@@ -14,6 +14,12 @@ This project is an election audit to help Seth and Tom with a submission to the 
 
 * And 3rd largest county turnout was Arapahoe with 24,801 votes, which was 6.7% of the total votes. 
 
+* Charles Casper Stockham recieved 85,213 votes at 23% of total votes.
+
+* Diana DeGett recieved 272,892 votes at 73.8% of total votes.
+
+* Raymon Anthony Doane recieved 11,606 votes of 3.1% of total votes.
+
 # Summary
 According to the election results, the winner of the election is Diana DeGette with 73.8% of all votes cast, which was 272,892 out of the total 369,711 total votes. This code can be used to find future election results with edits and additions to names and adjusting the ranges of what results are being sought after. 
 
